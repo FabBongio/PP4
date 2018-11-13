@@ -1,0 +1,14 @@
+D:\Users\BongioF\Desktop\Programmation\PPE4\JeuGestion\JeuGestion\bin\Debug\JeuGestion.exe.config
+D:\Users\BongioF\Desktop\Programmation\PPE4\JeuGestion\JeuGestion\bin\Debug\JeuGestion.exe
+D:\Users\BongioF\Desktop\Programmation\PPE4\JeuGestion\JeuGestion\bin\Debug\JeuGestion.pdb
+D:\Users\BongioF\Desktop\Programmation\PPE4\JeuGestion\JeuGestion\bin\Debug\MySql.Data.dll
+D:\Users\BongioF\Desktop\Programmation\PPE4\JeuGestion\JeuGestion\obj\Debug\JeuGestion.csprojAssemblyReference.cache
+D:\Users\BongioF\Desktop\Programmation\PPE4\JeuGestion\JeuGestion\obj\Debug\JeuGestion.Form1.resources
+D:\Users\BongioF\Desktop\Programmation\PPE4\JeuGestion\JeuGestion\obj\Debug\JeuGestion.Properties.Resources.resources
+D:\Users\BongioF\Desktop\Programmation\PPE4\JeuGestion\JeuGestion\obj\Debug\JeuGestion.csproj.GenerateResource.cache
+D:\Users\BongioF\Desktop\Programmation\PPE4\JeuGestion\JeuGestion\obj\Debug\JeuGestion.csproj.CoreCompileInputs.cache
+D:\Users\BongioF\Desktop\Programmation\PPE4\JeuGestion\JeuGestion\obj\Debug\JeuGestion.csproj.CopyComplete
+D:\Users\BongioF\Desktop\Programmation\PPE4\JeuGestion\JeuGestion\obj\Debug\JeuGestion.exe
+D:\Users\BongioF\Desktop\Programmation\PPE4\JeuGestion\JeuGestion\obj\Debug\JeuGestion.pdb
+D:\Users\BongioF\Desktop\Programmation\PPE4\JeuGestion\JeuGestion\obj\Debug\JeuGestion.Gestion.resources
+D:\Users\BongioF\Desktop\Programmation\PPE4\JeuGestion\JeuGestion\obj\Debug\JeuGestion.Administrateur.resources
